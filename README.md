@@ -13,3 +13,4 @@ This Python script converts JPG images in a specified folder to PNG format. It u
 2. Run the script with the following command:
    ```bash
    python JPGtoPNGconverter.py <input_folder> <output_folder>
+# JPGtoPNG_convert
